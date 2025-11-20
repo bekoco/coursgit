@@ -238,3 +238,4 @@ git clone <url>
 ```
 git clone --branch <rama> <url>
 ```
+Modifié par Pierre
